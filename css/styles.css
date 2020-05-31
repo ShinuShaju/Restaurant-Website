@@ -1,0 +1,20 @@
+.header-background{
+    background-color: #7408C2;
+    color: #ffffff;
+    border-radius: 0;
+}
+
+.column-div{
+    padding: 30px 15px;
+}
+
+.column-content{
+    background-color: #fafafa;
+    padding: 16px 16px;
+}
+
+footer{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 50px 0;
+}
