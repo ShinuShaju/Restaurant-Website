@@ -27,7 +27,7 @@ address{
 
 .row-content {
     margin:0px auto;
-    padding: 20px 0px 20px 0px;
+    padding: 100px 0px 0px 0px;
     border-bottom: 1px ridge;
     min-height:400px;
 }
@@ -36,4 +36,9 @@ address{
     background-color: #D1C4E9;
     margin:0px auto;
     padding: 20px;
+}
+
+.img-thumbnail{
+    height: 150px;
+    width: 150px;
 }
