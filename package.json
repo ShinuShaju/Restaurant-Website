@@ -24,7 +24,7 @@
     "onchange": "^7.0.2",
     "parallelshell": "^3.0.1",
     "rimraf": "^2.6.2",
-    "uglify-js": "^3.10.0",
+    "uglify-js": "^2.6.0",
     "usemin-cli": "^0.6.0"
   },
   "dependencies": {
